@@ -1,5 +1,7 @@
 # Merge 'em All
 
+![MergeThemAll](https://github.com/ErKiran/MergeThemAll/blob/master/mergethemall.png)
+
 ### Merge all the Pending PR 
 
 Using the power of Github cli `gh` to merge all the pending pr in user workspace.
