@@ -4,6 +4,8 @@
 
 ### Merge all the Pending PR 
 
+* You need to install `gh` cli and authenticate it
+
 Using the power of Github cli `gh` to merge all the pending pr in user workspace.
 
 Commands Used:  
