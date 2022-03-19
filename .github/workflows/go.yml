@@ -18,9 +18,6 @@ jobs:
       with:
         go-version: 1.18
         
-    - name: Run golint  
-      run: golint ./...
-          
     - name: Build
       run: go build -o mergethem
 
